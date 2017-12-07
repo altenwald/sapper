@@ -1,0 +1,34 @@
+@author "Manuel Rubio <manuel@altenwald.com>"
+@copyright 2017 Altenwald Solutions, S.L.
+@title Sapper
+
+@doc
+<a href="https://travis-ci.org/altenwald/sapper"><img src="https://img.shields.io/travis/altenwald/sapper/master.svg" alt="Build Status"/></a>
+<a href='https://codecov.io/gh/altenwald/sapper'><img src='https://img.shields.io/codecov/c/github/altenwald/sapper.svg' alt='Codecov' /></a>
+<a href='https://raw.githubusercontent.com/altenwald/sapper/master/COPYING'><img src='https://img.shields.io/github/license/altenwald/sapper.svg' alt='License: LGPL 2.1'/></a>
+<a href="https://hex.pm/packages/sapper"><img alt="Hex" src="https://img.shields.io/hexpm/v/sapper.svg"/></a>
+
+Sapper is a soldier in charge to prepare the way for the rest of the soldiers. Using a configuration and different APIs can connect to a provider and create, modify or destroy a remote machine.
+
+== Requirements ==
+
+Sapper requires to be run over an Erlang/OTP 19+.
+
+| Erlang Version | Support | Notes |
+|:---|:---:|:---|
+| 20.1 | :heavy_check_mark: | Recommended if you use OTP 20 |
+| 20.0 | :heavy_check_mark: | |
+| 19.3 | :heavy_check_mark: | Recommended if you use OTP 19 |
+| 19.2 | :heavy_check_mark: | |
+| 19.1 | :heavy_check_mark: | |
+| 19.0 | :heavy_check_mark: | |
+
+== Getting started ==
+
+TBD
+
+== Providers ==
+
+Check providers [here](doc/providers.md)
+
+Enjoy!

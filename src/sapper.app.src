@@ -1,0 +1,18 @@
+{application, sapper, [
+    {description, "Sapper is an Automation Transformation Tool"},
+    {vsn, git},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib,
+        asn1,
+        public_key,
+        crypto
+    ]},
+    {env, []},
+    {maintainers, ["Manuel Rubio"]},
+    {licenses, ["LGPL 2.1"]},
+    {links,[
+        {"Github","https://github.com/altenwald/sapper"}
+    ]}
+]}.
