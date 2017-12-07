@@ -17,11 +17,13 @@ The list of providers ready to be in use... (list of APIs)
 - [Bluehost](https://cp.br.bluehost.com/kb/answer/744)
 - [LiquidWeb](https://cart.liquidweb.com/storm/api/)
 
-=== Amazon Web Services ===
+Amazon Web Services
+-------------------
 
 TBD
 
-=== OVH ===
+OVH
+---
 
 The configuration for this provider is as follow:
 
@@ -31,7 +33,8 @@ The configuration for this provider is as follow:
 ]}
 ```
 
-=== Hetzner ===
+Hetzner
+-------
 
 The configuration for this provider is as follow:
 
@@ -41,15 +44,18 @@ The configuration for this provider is as follow:
 ]}
 ```
 
-=== Scaleway ===
+Scaleway
+--------
 
 TBD
 
-=== Linode ===
+Linode
+------
 
 TBD
 
-=== DigitalOcean ===
+DigitalOcean
+------------
 
 The configuration for this provider is as follow:
 
@@ -59,30 +65,37 @@ The configuration for this provider is as follow:
 ]}
 ```
 
-=== Google Cloud Platform ===
+Google Cloud Platform
+---------------------
 
 TBD
 
-=== Heroku ===
+Heroku
+------
 
 TBD
 
-=== Softlayer ===
+Softlayer
+---------
 
 TBD
 
-=== LeaseWeb ===
+LeaseWeb
+--------
 
 TBD
 
-=== DreamHost ===
+DreamHost
+---------
 
 TBD
 
-=== Bluehost ===
+Bluehost
+--------
 
 TBD
 
-=== LiquidWeb ===
+LiquidWeb
+---------
 
 TBD
